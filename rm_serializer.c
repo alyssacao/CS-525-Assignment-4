@@ -68,7 +68,7 @@ typedef struct VarString {
 		} while(0)
 
 // prototypes
-static RC attrOffset (Schema *schema, int attrNum, int *result);
+// static RC attrOffset (Schema *schema, int attrNum, int *result);
 
 // implementations
 char *
